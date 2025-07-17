@@ -15,6 +15,7 @@ Some exciting take aways:
 - 492226 is the furthest from the previous prime (492113) with y = 113 
 - meaning 492170 is the furthest away from any Prime (counting both directions), 56 non-prime numbers in each direction
 - Honerable mention for 370372, with y = 111, the only two strings the got over 100
+- Average distance from last prime = ~10.02, not including primes ~10.87. I wonder if this tends towards a limit?
 
 ![y > 20](/Graphes/ybigger_than20.png)
 
